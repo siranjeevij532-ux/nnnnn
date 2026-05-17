@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☕ Brothers Cafe - Table Management System
 ## Tirupattur | GSTIN: 23278537256752
 
@@ -176,3 +177,6 @@ brothers_cafe/
 ---
 
 Made with ❤️ for Brothers Cafe, Tirupattur
+=======
+# nnnnn
+>>>>>>> d310b9e616047a0f70aaf55d92a9c15440068ad7
